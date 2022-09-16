@@ -1,4 +1,4 @@
-# VirutalTA-CS4485-Team65
+# VirutalTA-CS4485-Team13
 
 A chatbot is an AI-based software designed to interact with humans in a natural way.
 
